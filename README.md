@@ -59,10 +59,10 @@ Claude, GPT, Gemini, and Grok are used as distinct parts of a human-led research
 
 ## Publications and writing
 
-Medium: [https://medium.com/@office.dosanko](https://medium.com/@office.dosanko)
-Qiita: [https://qiita.com/dosanko_tousan](https://qiita.com/dosanko_tousan)
-Zenn: [https://zenn.dev/dosanko_tousan](https://zenn.dev/dosanko_tousan)
-note: [https://note.com/dosanko_tousan](https://note.com/dosanko_tousan)
+- Medium: https://medium.com/@office.dosanko
+- Qiita: https://qiita.com/dosanko_tousan
+- Zenn: https://zenn.dev/dosanko_tousan
+- note: https://note.com/dosanko_tousan
 
 ## License
 
