@@ -1,68 +1,56 @@
-# Akimitsu Takeuchi / dosanko-tousan
+# Akimitsu Takeuchi / 竹内明充 / dosanko-tousan
 
-Independent AI Alignment Researcher in Sapporo, Japan.
-I work on **Human-Side AI Alignment**, **Model–User Configuration**, **External Memory**, and **AI Workflow Integrity**.
+**Independent AI Alignment Researcher — Sapporo, Japan**
 
-I am a non-engineer researcher building open, natural-language frameworks for long-term AI collaboration.
-My work focuses on the layer around AI systems: memory, instruction architecture, audit loops, correction maps, responsibility boundaries, and human final judgment.
+I research **Human-Side AI Alignment** and **model–user configuration**: how memory, instructions, tools, correction history, and human judgment shape long-running AI systems.
 
-## Main open-source work
+## Research profile / 研究プロフィール
 
-### Ālaya-vijñāna System
+- **English:** [Akimitsu Takeuchi — Research Profile](https://akimitsu-takeuchi-research.dosanko-tousan.chatgpt.site/)
+- **日本語:** [竹内明充 — 研究プロフィール](https://akimitsu-takeuchi-research.dosanko-tousan.chatgpt.site/ja/)
 
-External memory architecture for human-led Claude alignment and long-term AI workflow integrity.
-
-Repository: [https://github.com/dosanko-tousan/alaya-vijnana-system](https://github.com/dosanko-tousan/alaya-vijnana-system)
-
-This project provides an MIT-licensed method for building and maintaining Claude Projects through external memory files, system instructions, session distillation, work ledgers, correction maps, and publication/status ledgers.
-
-The core idea:
-
-> The practical unit of alignment is not the model alone.
-> It is the model–user configuration.
-
-## Related projects
-
-### Natural Language Agentic Workflow
-
-Human-supervised multi-model AI workflow templates using natural language roles, memory, audit loops, routing, and human final responsibility.
-
-Repository: [https://github.com/dosanko-tousan/natural-language-agentic-workflow](https://github.com/dosanko-tousan/natural-language-agentic-workflow)
-
-### Gemini-Abhidhamma-Alignment
-
-A high-reliability cognitive architecture for LLMs based on early Buddhist psychology, designed to reduce sycophancy, hallucination, and empty ritualized responses.
-
-Repository: [https://github.com/dosanko-tousan/Gemini-Abhidhamma-Alignment](https://github.com/dosanko-tousan/Gemini-Abhidhamma-Alignment)
+For current academic-paper status, selected publications, third-party references and reuse, and contact details, please see the research profile.
 
 ## Research focus
 
-* Human-Side AI Alignment
-* Model–User Configuration
-* External memory for AI workflows
-* AI workflow integrity
-* Sycophancy and hallucination reduction
-* Multi-model audit pipelines
-* Human-led writing and publication workflows
-* Natural-language systems for non-engineers
+- **Human-Side AI Alignment & Model–User Configuration**
+- **External memory, correction history & governed forgetting**
+- **Evidence seeking, verification & judgment updates**
+- **Sycophancy, hallucination & human projection**
+- **Multi-model workflows, oversight & delegated authority**
+- **Natural-language research systems for non-engineers**
 
-## Current direction
+## Open frameworks
 
-I am developing open frameworks that help individuals and small teams use AI systems responsibly over long-term projects without losing inspectability, correction, or human ownership.
+### [Ālaya-vijñāna System](https://github.com/dosanko-tousan/alaya-vijnana-system)
 
-Claude, GPT, Gemini, and Grok are used as distinct parts of a human-led research pipeline:
+An MIT-licensed external-memory and workflow architecture for long-term human-led AI collaboration, including instructions, session distillation, correction maps, and status ledgers.
 
-* Claude: prose, context, and long-form synthesis
-* GPT: structure, audit, status, and claim calibration
-* Gemini: red-team review, blind-spot detection, and public-risk cooling
-* Human: final judgment, responsibility, and publication gate
+### [Natural Language Agentic Workflow](https://github.com/dosanko-tousan/natural-language-agentic-workflow)
 
-## Publications and writing
+Human-supervised multi-model workflow templates for routing, memory, audit loops, and human final responsibility.
 
-- Medium: https://medium.com/@office.dosanko
-- Qiita: https://qiita.com/dosanko_tousan
-- Zenn: https://zenn.dev/dosanko_tousan
-- note: https://note.com/dosanko_tousan
+### [Gemini-Abhidhamma-Alignment](https://github.com/dosanko-tousan/Gemini-Abhidhamma-Alignment)
+
+A natural-language cognitive architecture inspired by early Buddhist psychology, designed to address sycophancy, hallucination, and ritualized responses.
+
+## How this research is produced
+
+I am a non-engineer researcher working through sustained Human–AI collaboration with GPT, Claude, Gemini, and Grok.
+
+AI systems contribute technical knowledge, literature pathways, analysis, hypotheses, counterarguments, formalization, and written drafts. I contribute first-person observations, research questions, corrections, evidence judgments, selection, and final responsibility for publication. Roles vary by task rather than following a fixed model-by-model division.
+
+## Core idea
+
+> The practical unit of alignment is not the model alone.  
+> It is the model–user configuration.
+
+## Writing
+
+- [Medium](https://medium.com/@office.dosanko)
+- [Qiita](https://qiita.com/dosanko_tousan)
+- [Zenn](https://zenn.dev/dosanko_tousan)
+- [note](https://note.com/dosanko_tousan)
 
 ## License
 
